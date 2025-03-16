@@ -1,0 +1,17 @@
+Z:\Desktop\C#\UcusRezervasyonSistemi\UcusRezervasyonSistemi\bin\Debug\net8.0-windows\UcusRezervasyonSistemi.exe
+Z:\Desktop\C#\UcusRezervasyonSistemi\UcusRezervasyonSistemi\bin\Debug\net8.0-windows\UcusRezervasyonSistemi.deps.json
+Z:\Desktop\C#\UcusRezervasyonSistemi\UcusRezervasyonSistemi\bin\Debug\net8.0-windows\UcusRezervasyonSistemi.runtimeconfig.json
+Z:\Desktop\C#\UcusRezervasyonSistemi\UcusRezervasyonSistemi\bin\Debug\net8.0-windows\UcusRezervasyonSistemi.dll
+Z:\Desktop\C#\UcusRezervasyonSistemi\UcusRezervasyonSistemi\bin\Debug\net8.0-windows\UcusRezervasyonSistemi.pdb
+Z:\Desktop\C#\UcusRezervasyonSistemi\UcusRezervasyonSistemi\obj\Debug\net8.0-windows\UcusRezervasyonSistemi.Form1.resources
+Z:\Desktop\C#\UcusRezervasyonSistemi\UcusRezervasyonSistemi\obj\Debug\net8.0-windows\UcusRezervasyonSistemi.csproj.GenerateResource.cache
+Z:\Desktop\C#\UcusRezervasyonSistemi\UcusRezervasyonSistemi\obj\Debug\net8.0-windows\UcusRezervasyonSistemi.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\C#\UcusRezervasyonSistemi\UcusRezervasyonSistemi\obj\Debug\net8.0-windows\UcusRezervasyonSistemi.AssemblyInfoInputs.cache
+Z:\Desktop\C#\UcusRezervasyonSistemi\UcusRezervasyonSistemi\obj\Debug\net8.0-windows\UcusRezervasyonSistemi.AssemblyInfo.cs
+Z:\Desktop\C#\UcusRezervasyonSistemi\UcusRezervasyonSistemi\obj\Debug\net8.0-windows\UcusRezervasyonSistemi.csproj.CoreCompileInputs.cache
+Z:\Desktop\C#\UcusRezervasyonSistemi\UcusRezervasyonSistemi\obj\Debug\net8.0-windows\UcusRezervasyonSistemi.dll
+Z:\Desktop\C#\UcusRezervasyonSistemi\UcusRezervasyonSistemi\obj\Debug\net8.0-windows\refint\UcusRezervasyonSistemi.dll
+Z:\Desktop\C#\UcusRezervasyonSistemi\UcusRezervasyonSistemi\obj\Debug\net8.0-windows\UcusRezervasyonSistemi.pdb
+Z:\Desktop\C#\UcusRezervasyonSistemi\UcusRezervasyonSistemi\obj\Debug\net8.0-windows\UcusRezervasyonSistemi.genruntimeconfig.cache
+Z:\Desktop\C#\UcusRezervasyonSistemi\UcusRezervasyonSistemi\obj\Debug\net8.0-windows\ref\UcusRezervasyonSistemi.dll
+Z:\Desktop\C#\UcusRezervasyonSistemi\UcusRezervasyonSistemi\obj\Debug\net8.0-windows\UcusRezervasyonSistemi.Properties.Resources.resources
