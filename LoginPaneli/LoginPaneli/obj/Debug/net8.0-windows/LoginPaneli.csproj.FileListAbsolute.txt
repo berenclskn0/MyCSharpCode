@@ -1,0 +1,17 @@
+Z:\Desktop\C#\LoginPaneli\LoginPaneli\bin\Debug\net8.0-windows\LoginPaneli.exe
+Z:\Desktop\C#\LoginPaneli\LoginPaneli\bin\Debug\net8.0-windows\LoginPaneli.deps.json
+Z:\Desktop\C#\LoginPaneli\LoginPaneli\bin\Debug\net8.0-windows\LoginPaneli.runtimeconfig.json
+Z:\Desktop\C#\LoginPaneli\LoginPaneli\bin\Debug\net8.0-windows\LoginPaneli.dll
+Z:\Desktop\C#\LoginPaneli\LoginPaneli\bin\Debug\net8.0-windows\LoginPaneli.pdb
+Z:\Desktop\C#\LoginPaneli\LoginPaneli\obj\Debug\net8.0-windows\LoginPaneli.Form1.resources
+Z:\Desktop\C#\LoginPaneli\LoginPaneli\obj\Debug\net8.0-windows\LoginPaneli.Properties.Resources.resources
+Z:\Desktop\C#\LoginPaneli\LoginPaneli\obj\Debug\net8.0-windows\LoginPaneli.csproj.GenerateResource.cache
+Z:\Desktop\C#\LoginPaneli\LoginPaneli\obj\Debug\net8.0-windows\LoginPaneli.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\C#\LoginPaneli\LoginPaneli\obj\Debug\net8.0-windows\LoginPaneli.AssemblyInfoInputs.cache
+Z:\Desktop\C#\LoginPaneli\LoginPaneli\obj\Debug\net8.0-windows\LoginPaneli.AssemblyInfo.cs
+Z:\Desktop\C#\LoginPaneli\LoginPaneli\obj\Debug\net8.0-windows\LoginPaneli.csproj.CoreCompileInputs.cache
+Z:\Desktop\C#\LoginPaneli\LoginPaneli\obj\Debug\net8.0-windows\LoginPaneli.dll
+Z:\Desktop\C#\LoginPaneli\LoginPaneli\obj\Debug\net8.0-windows\refint\LoginPaneli.dll
+Z:\Desktop\C#\LoginPaneli\LoginPaneli\obj\Debug\net8.0-windows\LoginPaneli.pdb
+Z:\Desktop\C#\LoginPaneli\LoginPaneli\obj\Debug\net8.0-windows\LoginPaneli.genruntimeconfig.cache
+Z:\Desktop\C#\LoginPaneli\LoginPaneli\obj\Debug\net8.0-windows\ref\LoginPaneli.dll
